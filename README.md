@@ -8,6 +8,13 @@ ORGANISATIONAL OVERVIEW:
 
 #
 CHANGELOG
+
+Creating a CSS file - 16/09/2026
+Editing home page - 17/09/2026
+Editing Contact Page - 17/09/2026
+Editing Product Page - 18/09/2026
+Editing About Us Page - 18/09/2026
+
 #
 
 
