@@ -124,7 +124,7 @@ Website software: R150
 
 Total  cost : R 8765 
 
- 
+
 
 REFERENCES 
 
@@ -133,3 +133,9 @@ Canva (2026) Webpage Template.  Available at:  Canva (Accessed: 13 August 2026).
 GitHub(2026) Configuring a publishing source for your GitHub page site. Available at: https://docs.github.com/en/pags/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site  (Accessed: 11 August 2026) 
 
 Domains.co.za (2026) Web hosting: Basic vs Standard package. Available at:  https://www.domains.co.za/knowlwdege/hosting/basic-vs-standard/ (Accessed: 11 August 2026)  
+
+
+----------------------------------------------------------------------------
+#CHANGELOG
+
+
