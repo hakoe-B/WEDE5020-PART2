@@ -6,6 +6,9 @@ Part 1
 #
 ORGANISATIONAL OVERVIEW: 
 
+#
+CHANGELOG
+
 
 BookNest 
 
@@ -134,8 +137,5 @@ GitHub(2026) Configuring a publishing source for your GitHub page site. Availabl
 
 Domains.co.za (2026) Web hosting: Basic vs Standard package. Available at:  https://www.domains.co.za/knowlwdege/hosting/basic-vs-standard/ (Accessed: 11 August 2026)  
 
-
-----------------------------------------------------------------------------
-#CHANGELOG
 
 
